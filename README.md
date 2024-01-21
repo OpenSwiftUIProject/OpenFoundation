@@ -15,7 +15,7 @@ let package = Package(
         .library(name: "DemoKit", targets: ["DemoKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Kyle-Ye/OpenFoundation", from: "0.0.1"),
+        .package(url: "https://github.com/OpenSwiftUIProject/OpenFoundation", from: "0.0.1"),
     ],
     targets: [
         .target(
