@@ -1,3 +1,8 @@
+> [!CAUTION]
+> This package is deprecated.
+> 
+> See https://github.com/OpenSwiftUIProject/OpenGraph/pull/17
+
 # OpenFoundation
 
 The package provides CF-like macro for cross-platform SwiftPM C target.
