@@ -1,7 +1,7 @@
 > [!CAUTION]
 > This package is deprecated.
 > 
-> See https://github.com/OpenSwiftUIProject/OpenGraph/pull/17
+> See https://github.com/OpenSwiftUIProject/OpenGraph/pull/17 and https://github.com/OpenSwiftUIProject/OpenSwiftUI/pull/36
 
 # OpenFoundation
 
